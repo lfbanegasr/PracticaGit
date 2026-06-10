@@ -1,1 +1,3 @@
 Hola desde MAIN VERSION 2
+Hola desde CONFLICTO-DEMO
+Conflicto resuelto manualmente

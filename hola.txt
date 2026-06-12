@@ -1,3 +1,4 @@
-Hola desde MAIN VERSION 2
-Hola desde CONFLICTO-DEMO
-Conflicto resuelto manualmente
+Hola desde MAIN VERSION 2 
+Hola desde CONFLICTO-DEMO 
+Conflicto resuelto manualmente 
+Hola esto fue modificado desde la rama login

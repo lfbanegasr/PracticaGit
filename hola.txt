@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 Hola desde MAIN VERSION 2 
 Hola desde CONFLICTO-DEMO 
 Conflicto resuelto manualmente 
+=======
+>>>>>>> origin/main
 Hola esto fue modificado desde la rama login
